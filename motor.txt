@@ -1,0 +1,10 @@
+Mv Agusta F4 Rc;205;12.400.000
+Ducati 1299 Panigale R FE;209;12.000.000
+Ducati Panigale V4 Speciale;226;12.600.000
+Ducati Panigale V4R;218;12.600.00
+Harley-Davidson CVO limited;105;12.800.000
+Kawasaki Ninja H2R;300;17.000.000
+Mv Agusta F4 LH44;212;19.500.000
+BMW HP4 Race;215;24.000.000
+Arch Motorcycle KRGT-1;122;32.000.000
+Arc Vector;625;32.600.000
