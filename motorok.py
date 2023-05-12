@@ -1,13 +1,15 @@
+tipus=""
+loero=0
+ar=0
 class Motor:
-    def __init__(self,tipus,loero,ar):
-        self.tipus=tipus
-        self.loero=loero
-        self.ar=ar
+        def __init__(self,tipus,loero,ar):
+                self.tipus=oszlop[0]
+                self.loero=oszlop[1]
+                self.ar=oszlop[2]
 motorlista=[]
 fajl=open("motor.txt","r",encoding="utf-8")
 for sor in fajl:
-    sor=oszlop().strip().split(;)
-print(motorlista)
-print("A lista hossza: "+len(motorlista))
-sorba=sorted(motorlista key=lambda k:k.ar)
-print("10 legdrágább motor: "+motorlista)
+        sor=sor.strip()
+        oszlopok=sor.split(";")
+        print(oszlopok[0],oszlopok[1],oszlopok[2])
+print("-------------------")
