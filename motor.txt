@@ -1,0 +1,10 @@
+Mv Agusta F4 Rc;12400000
+Ducati 1299 Panigale R FE;12000000;209
+Ducati Panigale V4 Speciale;12600000;226
+Ducati Panigale V4R;1260000;218
+Harley-Davidson CVO limited;12800000;105
+Kawasaki Ninja H2R;17000000;300
+Mv Agusta F4 LH44;19500000;212
+BMW HP4 Race;24000000;215
+Arch Motorcycle KRGT-1;32000000;122
+Arc Vector;32600000;625
