@@ -28,4 +28,4 @@ print(f"13.000.000 FT feletti motorok száma: {motor_szam} db")
 print("-----------------------------------")
 
 sorba=sorted(motor_lista, key=lambda n: n.ar)
-print(f"A legdrágább növény: {sorba[-1].nev}")
+print(f"A legdrágább motor: {sorba[-1].nev}")
